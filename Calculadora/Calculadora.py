@@ -42,7 +42,7 @@ class Calculadora(QMainWindow):
         self.botao_sub = QPushButton('-')
         self.botao_igual = QPushButton('=')
         self.botao_limpa = QPushButton('CE')
-        self.botao_ponto = QPushButton('')
+        self.botao_ponto = QPushButton('.')
         self.botao_exp = QPushButton('EXP')
         self.botao_ap = QPushButton('DEL')
         self.botao_off = QPushButton('OFF')
